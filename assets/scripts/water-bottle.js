@@ -10,4 +10,4 @@ while (numBo >= numEx) {
     numBo = a + (numBo % numEx)
         // console.log(numBo)
 }
-// console.log(res)
+console.log(res)
